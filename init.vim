@@ -40,6 +40,9 @@ nmap <Leader>nt :NERDTreeFind<CR>
 " Close Nerdtree when closing file
 let NERDTreeQuitOnOpen=1
 
+"show hidden files
+let NERDTreeShowHidden=1
+
 "Search for two chars with easymotion
 nmap <Leader>s <Plug>(easymotion-s2)
 

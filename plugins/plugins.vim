@@ -64,4 +64,7 @@ Plug 'nvim-telescope/telescope.nvim'
 " Icons
 Plug 'ryanoasis/vim-devicons'
 
+" wakatime
+Plug 'wakatime/vim-wakatime'
+
 call plug#end()
